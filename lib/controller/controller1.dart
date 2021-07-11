@@ -12,8 +12,8 @@ class Controller1 extends GetxController{
   void onClose() {
     // blbabababsdjbasjabsasbfhkasbfasbfhaksbf
     // something i added here pta ni kya kya
-    //askfhuiagfjasgfjagsfjkasf ios test
-   // afjnajfakfjwefwejgbjkebgjewbgjewbfjkwef
+   // kasfjasbfjasbfafmakfnjabfwejfwfwhwevfgjwvfgwefvhjvhasfgyqwgfyqwfgyuwqfyuqfhjcq
+  //  qfbhqwvfhwqvfhwfhwvhfvwqf
     super.onClose();
     print("controller closed");
   }
