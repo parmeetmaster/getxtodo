@@ -10,6 +10,7 @@ class Controller1 extends GetxController{
 
   @override
   void onClose() {
+    // blbabababsdjbasjabsasbfhkasbfasbfhaksbf
     super.onClose();
     print("controller closed");
   }
